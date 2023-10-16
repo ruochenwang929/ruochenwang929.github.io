@@ -22,8 +22,8 @@ layout: default
 # Personal info
 
 * Ruochen Wang/Male/1997
-* Jaxing University/Bachelor of Network engineering (2016.9-2020.6)
-* Monash University/Master of Information Technology (2021.7-2023.7)
+* Jaxing University/Bachelor of Network engineering (2016-2020)
+* Monash University/Master of Information Technology (2021-2023)
 * [Github](https://github.com/ruochenwang929)
 * [Linkedin](http://www.linkedin.com/in/ruochen-wang-443128243)
 
